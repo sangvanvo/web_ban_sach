@@ -127,7 +127,7 @@
                                      Đăng nhập</a>
                                     <a class="text-white text-decoration-none fw-bold" href="/signup"><i
                                             class="fas fa-user-plus"></i>
-                                        Đăng ký</a>
+                                        Đăng ký</a> 
                                     ';
                             }
                             ?>

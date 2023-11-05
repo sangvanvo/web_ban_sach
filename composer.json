@@ -1,5 +1,5 @@
 {
-    "name": "ct275/project",
+    "name": "web_ban_sach",
     "require": {
         "bramus/router": "^1.6",
         "vlucas/phpdotenv": "^5.5",

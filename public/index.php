@@ -3,7 +3,7 @@
 define('SRC_DIR', __DIR__ . '/../src');
 define('VIEWS_DIR', __DIR__ . '/../src/views');
 define('UPLOAD_DIR', __DIR__ . '/uploads');
-define('BASE_URL', 'http://shop.localhost');
+define('BASE_URL', 'http://nienluan.localhost');
 
 require_once SRC_DIR . '/bootstrap.php';
 
